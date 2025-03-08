@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import quote
 
 
-TOKEN = '#'
+TOKEN = '7729982272:AAESTIPTnCnCgDzkR1WcvAtrNAFE-4iEic4'
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
